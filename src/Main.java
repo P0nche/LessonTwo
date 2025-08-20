@@ -84,6 +84,11 @@ public class Main {
             i++;
         }
     }
+    /*
+    * dsf
+    * dsfsdf
+    * dfs*/
+
 
     public static void taskStar() {
 
@@ -102,6 +107,5 @@ public class Main {
         }
         System.out.println(result);
     }
-    //test
 
 }
