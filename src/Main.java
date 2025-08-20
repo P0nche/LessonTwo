@@ -87,7 +87,7 @@ public class Main {
 
     public static void taskStar() {
 
-        System.out.print("Введите число или exit для выхода: ");
+        System.out.print("Введите число: ");
 
         if (!scanner.hasNextInt()) {
             System.out.println("Некорректно введены данные.");
