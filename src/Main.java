@@ -84,11 +84,6 @@ public class Main {
             i++;
         }
     }
-    /*
-    * dsf
-    * dsfsdf
-    * dfs*/
-
 
     public static void taskStar() {
 
